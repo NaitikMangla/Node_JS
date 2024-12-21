@@ -1,0 +1,3 @@
+hello
+this is a test file
+Note(by me) : this file is created manually not by node js
