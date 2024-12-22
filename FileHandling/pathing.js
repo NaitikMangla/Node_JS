@@ -15,5 +15,3 @@ let p2folder = __dirname
 // console.log(path.parse(p2file))
 
 // console.log(path.resolve(p2folder,'/newTextFiles','contacts.txt'))
-
-console.log(process.cwd())
